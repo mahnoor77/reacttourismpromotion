@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_video_youtube_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-idea" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-160.000000, -2731.000000)">
+        <g id="Group-149-Copy-2" transform="translate(0.000000, 2397.000000)">
+            <g id="Group-139" transform="translate(80.000000, 331.000000)">
+                <g id="ic_video_youtube_24px" transform="translate(80.000000, 0.000000)">
+                    <polygon id="Shape" points="0 0 20 0 20 20 0 20"></polygon>
+                    <path d="M19.58,5.19 C19.35,4.33 18.67,3.65 17.81,3.42 C16.25,3 10,3 10,3 C10,3 3.75,3 2.19,3.42 C1.33,3.65 0.65,4.33 0.42,5.19 C0,6.75 0,10 0,10 C0,10 0,13.25 0.42,14.81 C0.65,15.67 1.33,16.35 2.19,16.58 C3.75,17 10,17 10,17 C10,17 16.25,17 17.81,16.58 C18.67,16.35 19.35,15.67 19.58,14.81 C20,13.25 20,10 20,10 C20,10 20,6.75 19.58,5.19 Z M8,13 L8,7 L13.2,10 L8,13 Z" id="Shape" fill="#999999" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
